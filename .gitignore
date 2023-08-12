@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+*.jpg
+*.zip
+*.csv
+*.pkl
+venv/
+*.txt
+*.key_log
+*.h5
+*.png
+*__pycache__/
